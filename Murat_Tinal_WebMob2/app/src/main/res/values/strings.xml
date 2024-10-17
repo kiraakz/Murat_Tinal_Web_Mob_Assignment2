@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application_Murat Tinal</string>
+    <string name="profile_picture_description">status</string>
+    <string name="search_hint">Search...</string>
+    <string name="caption_hint">Caption</string>
+    <string name="post_image_description">Description of the post image</string>
+
+</resources>
